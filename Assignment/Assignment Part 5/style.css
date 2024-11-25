@@ -1,0 +1,44 @@
+body {
+    background-color: indianred;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 150px;
+}
+
+.Apple-download-button {
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+.Apple-download-button p {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 25px;
+}
+
+.Playstore-download-button {
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-left: 800px;
+    margin-top: -100px;
+}
+
+.Playstore-download-button p {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 25px;
+}

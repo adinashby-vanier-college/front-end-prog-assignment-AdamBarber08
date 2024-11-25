@@ -1,0 +1,50 @@
+body {
+background-color: salmon;
+font-size: 25px;
+
+}
+
+h1 {
+    color:white;
+}
+
+h1 .move-word {
+margin-left: 40px;
+}
+
+h1 .move-word2 {
+    margin-left: 400px;
+}
+
+.info img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.info p {
+    margin-left: 180px;
+    margin-top: -100px;
+    font-style: italic;
+    color: white;
+}
+
+.arrows {
+font-size: 60px;
+opacity: 0.5;
+color:white;
+font-weight: 800;
+}
+
+.arrow1 {
+margin-top: -150px;
+margin-left: 100px;
+} 
+
+.arrow2 {
+    margin-top: -130px;
+    margin-left: 1400px;
+}
+
+
+

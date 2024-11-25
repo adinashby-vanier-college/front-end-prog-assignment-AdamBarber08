@@ -1,0 +1,167 @@
+body {
+    color: white;
+}
+
+h1 {
+    color: black;
+    margin-left: 600px;
+}
+
+.info p {
+    color: grey;
+    margin-left: 650px;
+    font-size: 15px;
+}
+
+.Box {
+width: 300px;
+height: 400px;
+background-color: white;
+border: 2px solid grey;
+margin-left: 350px;
+margin-top: 50px;
+}
+
+.Rectangle {
+    width: 300px;             
+    height: 100px;           
+    background-color: lightgray; 
+    opacity: 0.5;
+    position: absolute; 
+}
+
+.Rectangle p {
+    color: black;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.app-info {
+color: black;
+}
+
+.info-app {
+    color: grey;
+    font-size: 20px;
+}
+
+.Sign-up-button {
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 300px;
+    margin-left: 25px;
+}
+
+.Sign-up-button p {
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.Box2 {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    border: 2px solid grey;
+    margin-left: 700px;
+    margin-top: -400px;
+    }
+    
+    .Rectangle2 {
+        width: 300px;             
+        height: 100px;           
+        background-color: lightgray; 
+        opacity: 0.5;
+        position: absolute; 
+    }
+
+    .Rectangle2 p {
+        color: black;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 20px;
+    }
+
+    .app-info2 {
+        color: black;
+        }
+        
+        .info-app2 {
+            color: grey;
+            font-size: 20px;
+        }
+
+        .Sign-up-button2 {
+            width: 250px;
+            height: 50px;
+            background-color: black;
+            border: 2px solid black;
+            border-radius: 15px;
+            margin-top: 300px;
+            margin-left: 25px;
+        }
+        
+        .Sign-up-button2 p {
+            color: white;
+            font-size: 35px;
+            text-align: center;
+            margin-top: 5px;
+        }
+
+.Box3 {
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border: 2px solid grey;
+    margin-left: 1050px;
+    margin-top: -400px;
+    }
+    
+    .Rectangle3 {
+        width: 300px;             
+        height: 100px;           
+        background-color: lightgray; 
+        opacity: 0.5;
+        position: absolute; 
+    }
+
+    .Rectangle3 p {
+        color: black;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 20px;
+    }
+
+    .app-info3 {
+        color: black;
+        }
+        
+        .info-app3 {
+            color: grey;
+            font-size: 20px;
+        }
+
+        .Sign-up-button3 {
+            width: 250px;
+            height: 50px;
+            background-color: black;
+            border: 2px solid black;
+            border-radius: 15px;
+            margin-top: 400px;
+            margin-left: 25px;
+        }
+        
+        .Sign-up-button3 p {
+            color: white;
+            font-size: 35px;
+            text-align: center;
+            margin-top: 5px;
+        }
